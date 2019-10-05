@@ -1,3 +1,5 @@
+import java.util.List;
+
 public interface Cars {
 
     String getModel();
@@ -6,10 +8,12 @@ public interface Cars {
 
     EngineType getEngineType();
 
-   default boolean hasBrokenEngine(){
+    List<String> getList();
 
-       return false;
-   }
+    default boolean hasBrokenEngine() {
+
+        return false;
+    }
 
     void startEngine();
 
