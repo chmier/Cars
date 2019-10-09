@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6484952b-d7cf-4716-a21d-a33d8c22b729" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BmwE90.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CarModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Saver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AudiA4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AudiA4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Cars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CarsTypeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CarsTypeMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ParkingLot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ParkingLot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RenaultClio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RenaultClio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ToyotaCorolla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ToyotaCorolla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AudiA4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AudiA4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Cars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Cars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CarsTypeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CarsTypeMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ParkingLot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ParkingLot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/RenaultClio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/RenaultClio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ToyotaCorolla.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ToyotaCorolla.class" afterDir="false" />
-    </list>
+    <list default="true" id="6484952b-d7cf-4716-a21d-a33d8c22b729" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/CarsTypeMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+            <state relative-caret-position="825">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,13 +88,15 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ParkingLot.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-69" />
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Saver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="-469">
               <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
@@ -254,18 +237,18 @@
       <workItem from="1570110561736" duration="5978000" />
       <workItem from="1570118436220" duration="3901000" />
       <workItem from="1570207511875" duration="1443000" />
-      <workItem from="1570279956787" duration="20773000" />
+      <workItem from="1570279956787" duration="20831000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45463000" />
+    <option name="totallyTimeSpent" value="45521000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07583892" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21677852" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -275,7 +258,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.26770538" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25070822" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25070822" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.06798867" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -300,18 +283,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/CarsTypeMain.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/BrokenEngine.java" />
@@ -391,16 +362,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CarsTypeMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tmp/text3.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -459,12 +420,24 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ParkingLot.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Saver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="-469">
           <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CarsTypeMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
