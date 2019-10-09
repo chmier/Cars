@@ -17,5 +17,7 @@ public interface Cars {
 
     void startEngine();
 
+    public void fixCar(final Cars car);
+
 
 }

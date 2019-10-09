@@ -13,6 +13,7 @@ public class CarsTypeMain {
         final Cars toyota = new ToyotaCorolla("Corolla", 120);
         final BmwE90 bmw = new BmwE90("BMW", 300);
         final Saver saver = new Saver();
+        final Mechanic mechanikAndrzej = new Mechanic("Andrzej", "Złotaraczka");
 
         final ParkingLot<Cars> parkingLot = new ParkingLot<>(); // dowolne samochody;
         final ParkingLot<AudiA4> audiParkingLot = new ParkingLot<>(); // tylko audi
@@ -21,19 +22,31 @@ public class CarsTypeMain {
         parkingLot.parkCar(audiA4);
         parkingLot.parkCar(renaultClio);
         parkingLot.parkCar(toyota);
+        parkingLot.parkCar(bmw);
+
         renaultClio.startEngine();
         renaultClio.startEngine();
-        bmw.startEngine();
 
-
+        toyota.startEngine();
+        toyota.startEngine();
         toyota.startEngine();
         audiA4.startEngine();
         audiA4.startEngine();
         audiA4.startEngine();
+        bmw.startEngine();
+        bmw.startEngine();
+        bmw.startEngine();
+
+        mechanikAndrzej.tryFixCar(audiA4);
+        mechanikAndrzej.tryFixCar(bmw);
+        mechanikAndrzej.tryFixCar(toyota);
+
         parkingLot.removeBrokenCars();
+
         saver.saverData(renaultClio.getList());
         saver.saverData(bmw.getList());
         saver.saverData(audiA4.getList());
+        saver.saverData(toyota.getList());
 
 
     }
